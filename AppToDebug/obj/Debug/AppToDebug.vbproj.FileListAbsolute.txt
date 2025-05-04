@@ -1,0 +1,12 @@
+C:\Users\J.Hanke\source\repos\AppToDebug\AppToDebug\bin\Debug\AppToDebug.exe.config
+C:\Users\J.Hanke\source\repos\AppToDebug\AppToDebug\bin\Debug\AppToDebug.exe
+C:\Users\J.Hanke\source\repos\AppToDebug\AppToDebug\bin\Debug\AppToDebug.pdb
+C:\Users\J.Hanke\source\repos\AppToDebug\AppToDebug\bin\Debug\AppToDebug.xml
+C:\Users\J.Hanke\source\repos\AppToDebug\AppToDebug\obj\Debug\AppToDebug.vbproj.AssemblyReference.cache
+C:\Users\J.Hanke\source\repos\AppToDebug\AppToDebug\obj\Debug\AppToDebug.Form1.resources
+C:\Users\J.Hanke\source\repos\AppToDebug\AppToDebug\obj\Debug\AppToDebug.Resources.resources
+C:\Users\J.Hanke\source\repos\AppToDebug\AppToDebug\obj\Debug\AppToDebug.vbproj.GenerateResource.cache
+C:\Users\J.Hanke\source\repos\AppToDebug\AppToDebug\obj\Debug\AppToDebug.vbproj.CoreCompileInputs.cache
+C:\Users\J.Hanke\source\repos\AppToDebug\AppToDebug\obj\Debug\AppToDebug.exe
+C:\Users\J.Hanke\source\repos\AppToDebug\AppToDebug\obj\Debug\AppToDebug.xml
+C:\Users\J.Hanke\source\repos\AppToDebug\AppToDebug\obj\Debug\AppToDebug.pdb
