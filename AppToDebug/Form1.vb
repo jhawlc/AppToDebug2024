@@ -9,6 +9,7 @@
         price = TextBox1.Tex * VATRate
 
         resultLable.Text = prize
+Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
-
+    End Sub
 End Class
